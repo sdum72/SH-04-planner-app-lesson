@@ -13,4 +13,3 @@ This application enables an employee (user) with a busy schedule to add importan
 • An html file provided the content for the application. 
 • A css file was provided to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes. • I coded the Javascript file to provide dynamic content to the application.
 
-![Alt text](image.png)
